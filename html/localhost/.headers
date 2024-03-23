@@ -1,0 +1,11 @@
+[
+  {
+    "applyTo": "style.css",
+    "headers": [
+      {
+        "name": "content-type",
+        "value": "text/css"
+      }
+    ]
+  }
+]
